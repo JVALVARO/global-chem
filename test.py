@@ -87,7 +87,6 @@ smiles = {
     'hexadecane': 'CCCCCCCCCCCCCCCC',
     'heptadecane': 'CCCCCCCCCCCCCCCCC',
 }
-
 if __name__ == '__main__':
     # sequence = 'Asp Cys Ser Ser Gly Trp Ser Ser Tyr Glu Gly His Cys Tyr Lys Val Phe Lys Gln Ser Lys Thr Trp Ala Asp Ala Glu Ser Phe Cys Thr Lys Gln Val Asn Gly Gly His Leu Val Ser Leu Glu Ser Ser Gly Glu Ala Asp Phe Val Gly Gln Leu Leu Ala Gln Lys Leu Lys Ser Ala Lys Leu His Val Trp Leu Gly Leu Arg Ala Gln Asn Lys Glu Lys Gln Cys Ser Leu Gln Trp Ser Asp Gly Ser Ser Leu Ser Tyr Glu Asn Trp Leu Glu Glu Glu Ser Lys Lys Cys Leu Gly Val His Leu Glu Thr Gly Phe His Lys Trp Glu Asn Phe Tyr Cys Glu Gln Gln Asp Pro Phe Val Cys Glu Ala Asp Cys Pro Ser Asp Trp Ser Ser Tyr Glu Gly His Cys Tyr Lys Pro Phe Asn Glu Pro Lys Asn Trp Ala Asp Ala Glu Asn Phe Cys Thr Lys Gln His Thr Gly Gly His Leu Val Ser Phe Gln Ser Thr Glu Glu Ala Asp Phe Val Val Lys Leu Ala Phe Gln Thr Phe Asp Tyr Gly Leu Phe Trp Phe Gly Leu Ser Lys Leu Trp Asn Gln Cys Asn Trp Gln Trp Ser Asn Ala Ala Met Leu Lys Tyr Thr Asp Trp Ala Glu Glu Ser Tyr Cys Val Tyr Phe Lys Ser Thr Asn Asn Lys Trp Arg Ser Leu Thr Cys Arg Met Leu Ala Asn Phe Val Cys Glu Phe Gln Ala'
     #
